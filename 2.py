@@ -16,3 +16,6 @@ koszulka(valueA=x, valueB=y)
 koszulka(valueB=y, valueA=x)
 
 
+asd
+
+
